@@ -59,7 +59,7 @@ Updating employee- Here, we can see how we can update the value of wage of an Em
 ![Updating_Employee](images/updateemp.png)
 
 Checking updated table- Check if the updated data is reflected in the database
-![Checking_Table](images/updateemp.png)
+![Checking_Table](images/checkingtable.png)
 
 
 
