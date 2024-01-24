@@ -50,16 +50,16 @@ CREATE TABLES employees;
 ### Testing of our backend functions- 
 
 Adding employees- Here, we can see how we can enter the details of the employee in the website to add it into our database
-![Adding_Employee](trainee_backend/images/addingemp.png)
+![Adding_Employee](images/addingemp.png)
 
 Checking employees- Check if the added employee's data is reflected on the website
-![Checking_Employee](trainee_backend/images/checkingemp.png)
+![Checking_Employee](images/checkingemp.png)
 
 Updating employee- Here, we can see how we can update the value of wage of an Employee 
-![Updating_Employee](trainee_backend/images/updateemp.png)
+![Updating_Employee](images/updateemp.png)
 
 Checking updated table- Check if the updated data is reflected in the database
-![Checking_Table](trainee_backend/images/updateemp.png)
+![Checking_Table](images/updateemp.png)
 
 
 
